@@ -1,0 +1,5 @@
+{
+  "name": "Simulateur Déclaration IR - DGI Maroc",
+  "description": "Une application web intelligente permettant aux employeurs marocains de déclarer les retenues à la source de l’Impôt sur le Revenu (IR), inspirée du portail DGI Simpl-IR.",
+  "requestFramePermissions": []
+}
